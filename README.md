@@ -17,10 +17,10 @@ I have included a screenshot of the scripts in action.
 #### Starting Shell
 ![Pasted image 20231207155951](https://github.com/cyberAngel9/Windows-Python-Scripts/assets/82012925/4787cb06-9f84-4548-a77f-ab97c89c891d)
 
-####Connecting To The Shell
+#### Connecting To The Shell
 ![Pasted image 20231207160012](https://github.com/cyberAngel9/Windows-Python-Scripts/assets/82012925/f1b1c597-cfb5-4d13-8b31-3381968650aa)
 
-####Entering Commands
+#### Entering Commands
 ![Pasted image 20231207160122](https://github.com/cyberAngel9/Windows-Python-Scripts/assets/82012925/18e7dea8-e60b-44f3-bef9-6a9184a140a2)
 
 #### Commands History
