@@ -4,7 +4,7 @@ This repository contains Python scripts for Windows, derived from the TCM Python
 
 I have included a screenshot of the scripts in action.
 
-## Remote-DDL-Injection.py
+## Remote-DLL-Injection.py
 ![Pasted image 20231204111307](https://github.com/cyberAngel9/Windows-Python-Scripts/assets/82012925/2d906bd6-c7e7-4fe9-a41f-936c28672a2c)
 
 ## Process-Creation-and-Shellcode-Execution.py
